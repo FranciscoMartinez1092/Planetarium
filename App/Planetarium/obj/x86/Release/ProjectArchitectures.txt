@@ -1,0 +1,2 @@
+C:\Users\Zhu\Documents\Planetarium\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Zhu\Documents\Planetarium\App\Planetarium\Planetarium.csproj;x86
